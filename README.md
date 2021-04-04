@@ -5,6 +5,12 @@ Our mission at [Cryptosat](cryptosat.io) is to build satellites that power crypt
 This repository contains a tutorial which showcases the Cryptosat API. As a developer, you can learn about the cryptographic functions our satellites will provide and start integrating your project and protocols with our APIs.
 When you (and Cryptosat) are ready - you can turn the switch to start communicating with the actual satellite.
 
+## Resources
+
+- [CoinTelegraph article about the Cryptosat project](https://cointelegraph.com/magazine/2020/12/22/moon-man-mission-to-blast-crypto-satellite-into-orbit)
+- [Cryptosat website](https://www.cryptosat.io)
+- [Whitepaper](https://export.arxiv.org/pdf/1710.01430)
+
 ## Instructions
 
 ### Installing React scripts and dependencies
