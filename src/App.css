@@ -26,7 +26,11 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: pink;
+}
+
+a:visited {
+  color: pink;
 }
 
 @keyframes App-logo-spin {
@@ -45,7 +49,7 @@
   grid-row-end: 3;
   padding-top: 50px;
   padding-left: 20px;
-  font-size: 12px;
+  font-size: 18px;
   text-align: left;
 }
 
