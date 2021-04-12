@@ -44,9 +44,9 @@ return (
     <div className="App">
       <Tutorial />
       <Console>
-        {"Welcome to the Cryptosat Simulator v0.1!"}<br />&nbsp;
+        {"Cryptosat Simulator v0.1"}<br />&nbsp;
         <code><pre>{ascii}</pre></code>
-        <br />Documentation: type "help"<br />&nbsp;<br />
+        <br />Usage: type "help"<br />&nbsp;<br />
       </Console>
       <WorldMap />
     </div>

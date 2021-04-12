@@ -19,8 +19,10 @@ class Tutorial extends React.Component {
     return (
       <div id="documentation">
         <div id="documentation-content">
-          <h1>Welcome to Cryptosat Tutorial</h1>
-          <p>This tutorial will teach you how to communicate the Cryptosatellite Y2G-1.</p>
+          <img src="https://avatars.githubusercontent.com/u/77829558?s=200&v=4" height="100px"/>
+          <h1>Welcome to the Cryptosat tutorial</h1>
+          <p>This tutorial will teach you how to use the Cryptosat API to communicate with our crypto-satellites.</p>
+          <p>General information about the Cryptosat project is on <a href="https://www.cryptosat.io" target="_">www.cryptosat.io</a>.</p>
           <p>On the top right you will find a terminal interface that will allow to type commands to the satellite.
           On the bottom right is a visualization showing you the current position of the satellite.</p>
           <p>To get started type <code>status</code> into the terminal:</p>
