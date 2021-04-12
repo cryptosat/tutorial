@@ -40,7 +40,7 @@
 
 #documentation {
   height: 100%;
-  width: 50vw;
+  width: 40vw;
   grid-row-start: 1;
   grid-row-end: 3;
   padding-top: 50px;
@@ -78,9 +78,9 @@
 
 .terminal {
   font-family: Courier;
-  background-color: #000000; 
+  background-color: #000000;
   color: #99ff00;
-  display: block; 
+  display: block;
   text-align: left;
   padding: 8px;
   width: 80%;
@@ -90,9 +90,9 @@
 
 #console {
   font-family: Courier;
-  background-color: #000000; 
+  background-color: #000000;
   color: #99ff00;
-  display: block; 
+  display: block;
   float:left;
   height: 50vh;
   text-align: left;
